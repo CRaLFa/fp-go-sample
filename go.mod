@@ -1,4 +1,4 @@
-module fp
+module github.com/CRaLFa/fp-go-sample
 
 go 1.22.6
 
